@@ -3,12 +3,12 @@ entries:
   prometheus-pack:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-15T07:52:10.979769-04:00"
+    created: "2022-07-15T07:56:20.268423-04:00"
     description: A Helm chart for Prometheus
-    digest: c843b534874a15e84e7968287054de1eb6f78897bb955f245ada40ba5db547b5
+    digest: 0844493633e2a05d0a2012a1a840588db79961a76dfb6d94d572daae6ea3789b
     name: prometheus-pack
     type: application
     urls:
     - https://github.com/codewrox/public-charts/raw/main/prometheus-pack-0.1.2.tgz
     version: 0.1.2
-generated: "2022-07-15T07:52:10.979014-04:00"
+generated: "2022-07-15T07:56:20.267642-04:00"
